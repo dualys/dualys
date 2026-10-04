@@ -1,0 +1,3 @@
+[submodule "re"]
+	path = re
+	url = https://github.com/dualys/re.git
