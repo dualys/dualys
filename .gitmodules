@@ -10,3 +10,6 @@
 [submodule "iot"]
 	path = iot
 	url = https://github.com/dualys/iot.git
+[submodule "server"]
+	path = server
+	url = https://github.com/dualys/server.git
