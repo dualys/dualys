@@ -7,3 +7,6 @@
 [submodule "tv"]
 	path = tv
 	url = https://github.com/dualys/tv.git
+[submodule "iot"]
+	path = iot
+	url = https://github.com/dualys/iot.git
