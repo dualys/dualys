@@ -1,3 +1,6 @@
 [submodule "console"]
 	path = console
 	url = https://github.com/dualys/console.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/dualys/gateway.git
