@@ -22,3 +22,6 @@
 [submodule "watch"]
 	path = watch
 	url = https://github.com/dualys/watch.git
+[submodule "auto"]
+	path = auto
+	url = https://github.com/dualys/auto.git
