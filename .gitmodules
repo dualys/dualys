@@ -25,3 +25,6 @@
 [submodule "auto"]
 	path = auto
 	url = https://github.com/dualys/auto.git
+[submodule "live"]
+	path = live
+	url = https://github.com/dualys/live.git
