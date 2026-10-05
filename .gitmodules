@@ -4,3 +4,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/dualys/gateway.git
+[submodule "tv"]
+	path = tv
+	url = https://github.com/dualys/tv.git
