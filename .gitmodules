@@ -13,3 +13,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/dualys/server.git
+[submodule "phone"]
+	path = phone
+	url = https://github.com/dualys/phone.git
